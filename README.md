@@ -28,7 +28,8 @@ Fake and AI-generated face images are increasingly used for fraudulent profiles 
 Accuracy stayed above 98.8% across gender, age group, and image-quality groups.
 
 ## Limitations
-The model was trained only on StyleGAN3-generated fakes, so it may not detect fakes made with other methods, such as diffusion models.
+The model was trained only on StyleGAN3-generated fakes, so it may not detect fakes made with other methods, such as diffusion models. 
+
 
 ## Tools
 Python, PyTorch, scikit-learn, Pandas, NumPy, Gradio, Google Colab
